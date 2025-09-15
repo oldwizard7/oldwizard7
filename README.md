@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oldwizard7
 - 👀 I’m interested in mathematis modeling and coding
 - 🌱 I’m currently learning machine learning and neuroscience
-- 💞️ I’m looking to collaborate on computing mathematics
+- 💞️ I’m looking to collaborate on AI/OR
 - 📫 How to reach me chenyitong@whu.edu.cn
 
 <!---
