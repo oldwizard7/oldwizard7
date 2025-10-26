@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oldwizard7
-- 👀 I’m interested in mathematis modeling and coding
-- 🌱 I’m currently learning machine learning and neuroscience
-- 💞️ I’m looking to collaborate on AI/OR
+- 🌱 I’m currently learning Large Language Models(LLMs) and AI Agent.
+- 💞️ I’m looking to collaborate on AI/DS/OR
 - 📫 How to reach me ctong29@wisc.edu
 
 <!---
