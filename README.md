@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oldwizard7
-- 🌱 I’m currently learning Large Language Models(LLMs) and AI Agent.
+- 🌱 I’m currently Learning Large Language Models(LLMs) and AI Agent.
 - 💞️ I’m looking to collaborate on AI/DS/OR
 - 📫 How to reach me ctong29@wisc.edu
 
