@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oldwizard7
+- 👋 Hi, I’m Chenyi
 - 🌱 I’m currently Learning Large Language Models(LLMs) and AI Agent.
 - 💞️ I’m looking to collaborate on AI/DS/OR
 - 📫 How to reach me ctong29@wisc.edu
